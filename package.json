@@ -2,7 +2,7 @@
   "name": "create-react-app-v2",
   "version": "0.1.0",
   "private": true,
-  "home": "https://iyakd.github.io/create-react-app-v2",
+  "homepage": "https://iyakd.github.io/create-react-app-v2",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "node-sass": "^4.10.0",
